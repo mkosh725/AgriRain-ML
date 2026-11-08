@@ -1,0 +1,23 @@
+#Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+#Jupyter
+.ipynb_checkpoints/
+
+#Raw and Processed datasets
+data/raw/*
+data/processed/*
+
+#Models
+models/*.pkl
+models/*.joblib
+
+#secrets
+.env
+
+#OS files
+.DS_Store
+Thumbs.db
