@@ -7,3 +7,4 @@ geopandas
 xarray
 netCDF4
 jupyter
+ipykernel
